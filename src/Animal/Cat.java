@@ -1,10 +1,10 @@
 package Animal;
 
-public class Dog {
+public class Cat {
 
     public void speak(){
 
-        System.out.println("WOOOOF");
+        System.out.println("MEOW");
 
     }
 
