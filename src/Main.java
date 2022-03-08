@@ -7,7 +7,7 @@ public class Main {
 
         Dog dogRex = new Dog();
         dogRex.speak();
-	dogRex.speak();
+	
     }
 
 
